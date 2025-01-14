@@ -1,0 +1,9 @@
+pypdf
+langchain==0.3.4
+chromadb # Vector storage
+langchain_openai
+python-dotenv
+langchain-community
+langchain-chroma
+transformers
+customtkinter
